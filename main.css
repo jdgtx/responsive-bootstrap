@@ -1,0 +1,20 @@
+*{
+    text-align:center;
+
+}
+hr{
+    width:20%;
+}
+i{
+    font-size:40px;
+    color:orange;
+    background-color: rgba(247, 245, 245,0.6);
+    padding:30px;
+    border-radius:50px 50px;
+   
+   
+}
+.icon-container{
+    margin-top:10px;
+    
+}
